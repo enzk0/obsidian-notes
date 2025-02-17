@@ -51,3 +51,13 @@ Semester: 2nd
 5. test it on market
 6. commercialize it
 7. monitor ad evaluate
+
+## Technopreneur vs Entrepreneur
+---
+*technopreneurs* are *entrepreneurs* too...
+
+***What makes the difference is the field which an entrepreneur is in***
+
+**entrepreneurs** look for profits in static situation/in the new market and products
+
+**technopreneurs** operates in dynamic situations, creates new market and products, innovate and hope profit presents itself
