@@ -81,7 +81,7 @@ According to **PSA** or Philippine Statistics Authority in 2018:
 
 ## Forms of Business Entities
 ---
-#### 1. Sole Prorieirtorship
+#### 1. Sole Proprietorship
 - full control/authority of its business 
 - owns all the assets
 - personally owes answers to all liabilities
@@ -91,25 +91,24 @@ A sole proprietorship must apply for a business name and be registered with the 
 
 #### 2. Partnership
 Partnership is treated as juridical person, having separate legal personality from that of its members
-	1. General Partnerships
-		 - The partners have unlimited liability for the debts and obligation of the partnership
-	2. Limited Partnerships
+	1. *General Partnerships*
+		- The partners have unlimited liability for the debts and obligation of the partnership
+	2. *Limited Partnerships*
 		- Where one or more general partners have unlimited liability and the limited partners have liability only up to the amount of their capital contributions
 
 A partnership with more than Peso 3,000 capital must register with the **Securities and Exchange Commission (SEC).**
 
-#### Corporation
+#### 3. Corporation
 Corporation is *composed of juridical persons* established under the Corporation Code and regulated by the SEC with a personality separate and distinct from that of its stockholders.
 
 The liability of the shareholders of a corporation is *limited to the amount of their share capital*.
 
-It consists of *at least five to 15 incorporators*, each of whom must *hold at least one share* and must be *registered with the SEC*. 
+It consists of *at least 5 to 15 incorporators*, each of whom must *hold at least one share* and must be *registered with the SEC*. 
 
 If a company is, *60% Filipino - 40% foreign-owned* is considered a ***Filipino corporation***. If more than *40% foreign-owned*, it is considered a ***domestic foreign-owned corporation***.
 
 A corporation can either be:
 1. ***Stock Corporation -*** 
     Corporation with capital stock divided into shares and authorized to distribute to the holders of such shares dividends or allotments of the surplus profits on the basis of the shares held.
-    
 2. ***Non-Stock Corporation** -* 
     Corporation organized principally for public purposes such as charitable, educational, cultural, or similar purposes and does not issue shares of stock to its members.
