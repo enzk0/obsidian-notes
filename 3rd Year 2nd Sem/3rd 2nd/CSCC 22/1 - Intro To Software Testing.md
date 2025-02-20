@@ -42,6 +42,7 @@ $$ SoftwareTesting = Software Verification + Software Validation$$
 - already the **end** product
 
 *Verified but not Validated*
+
 ### Test Cases
 ---
 1. Technical Case
