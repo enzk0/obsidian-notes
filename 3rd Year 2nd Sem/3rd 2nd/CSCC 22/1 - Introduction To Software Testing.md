@@ -3,6 +3,28 @@ Course: CSCC 22
 Year Level: 3rd
 Semester: 2nd
 ---
+---
+- ***Testing***, a process of executing a program with the *intent* of finding **faults**
+- 70% of development time is *spent* on *testing*
+
+## The Testing Process
+---
+- ***testing*** is *different* from ***debugging***
+- should test both *valid* and *invalid* *inputs*
+- ***testing*** starts from the requirements phase only and goes to the last maintenance phase
+	- on ***requirements analysis phase***
+		- we do *static testing* to get the **SRS**
+		- code reviews, code inspections, walkthroughs, and software technical reviews for *static testing*
+	- if ***code is ready*** or a ***module is ready***
+		- we do *dynamic testing* to test code
+		- black-box, gray-box, white-box
+
+> **debugging**, removing errors from your program.
+> **testing**, aims to locate undiscovered errors.
+> **SRS**, System Requirements Specification.
+> **static testing**,  testing without executing the actual code
+> **dynamic testing**, testing with executing the x
+> 
 ## What is testing?
 ---
 *to be added*
