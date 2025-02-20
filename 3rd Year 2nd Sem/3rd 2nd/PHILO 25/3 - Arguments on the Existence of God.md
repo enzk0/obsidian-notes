@@ -4,9 +4,12 @@ Year Level: 3rd
 Semester: 2nd
 ---
 ---
+
 *"How can we rationalize on whether God exist?"*
+
 ## Ontological Argument
 ---
+
 ### Anselm of Canterbury
 ---
 - *Benedictine Monk and Archbishop*, Christian Philosopher, and Theologian.
@@ -14,26 +17,28 @@ Semester: 2nd
 	- *Medieval Period*: Contemplated on whether God exists or not.
 	- Philosophy was the *handmaid of Theology*. Philo helped Theo.
 #### Idea of God
-- *Id quo maius cogitari nequit*:  that than which nothing greater can be thought of
+> *Id quo maius cogitari nequit*:  that than which nothing greater can be thought of
 - the greatest conceivable being
 *For God must be God he must not be bested by other existence*
 - this is the common understanding of God
 
 #### Modal Logic
 - **modal**: an expression used to qualify the *truth of a judgment*. A *study of deductive behavior* of the expressions *'it is necessary that'* and *'it is possible that'*.
+
 ### Ontological Argument
 ---
 - attempts to *infer on God's existence* with *not proving or not relying* on the *observation of the world*
 - •Starts with the nature of the concept of God to the conclusion that God in fact exists
-- the argument is a **priori** (independent of experience, prior to experience)
+- this argument is a **priori** (independent of experience, prior to experience)
 
 #### Reductio ad absurdum argument
-- is a **process of refutation** on grounds that absurd – and patently untenable consequences would *ensue from accepting the item at issue*. This takes three principal forms according as that untenable consequence is: a **self-contradiction** (ad absurdum), a **falsehood** (ad falsum or even ad impossible), an **implausibility or anomaly** (ad ridiculum or ad incommodum)
+- is a **process of refutation** on grounds that *absurd – and patently untenable consequences* would *ensue from accepting the item at issue*. This takes three principal forms according as that untenable consequence is: a **self-contradiction** (ad absurdum), a **falsehood** (ad falsum or even ad impossible), an **implausibility or anomaly** (ad ridiculum or ad incommodum)
+
 ### Anselm's Ontological Argument
 ---
 1. God exist in the understanding
-	- not on the term "God" but the **idea** of it
-	- ide of greatest conceivable being qualifies God
+	- focuses not on the term "God" but the **idea** of it
+	- the idea of greatest conceivable being qualifies "God"
 	*"Unsay fool?"*
 	*"Swimming Fool!" - Cathy*
 	- A **fool** is someone who can think of God but does not understand it.
@@ -49,7 +54,8 @@ Semester: 2nd
 
 ### Gaunilo's Objection to Anselm
 ---
-- **Gaunilo of Marmoutiers**
+- ***Gaunilo of Marmoutiers***
+
 **Lost Island Objection**
 	If I can think of a perfect island, then that must exist in reality
 	***Absurd Conclusion***
@@ -67,15 +73,19 @@ Semester: 2nd
 - *-logia*: discourse or "treating of"
 **Teleological** - end or purpose
 - *telos*: end or purpose
+
 ### Thomas Aquinas
+---
 - Italian Catholic Christian
 - Fond in the writings of Aristotle
 - Lived in the medieval period
 - cosmological and teleological
+
 #### Summa Theologiae
 - Compendium of theology
 - was an unfinished book due to the reasoning that "For I am writing someone greater, I could not possibly define it?"
 
+### 5 
 #### Motion
 ---
 First Proof, *cosmological*: 
