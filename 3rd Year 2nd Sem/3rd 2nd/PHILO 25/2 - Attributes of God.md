@@ -5,35 +5,37 @@ Semester: 2nd
 ---
 ---
 **Terms to remember:**
-- Polytheism: many divine beings or gods
-- Henotheism: worship one god out of many gods, the god of a tribe
-- Monotheism: one god as the creator of all
-- Pantheism: everything has an inner nature that is common to all - God
+>- Polytheism: *many* divine beings or gods
+>- Henotheism: worship *one god* out of many gods, the god of a tribe
+>- Monotheism: *one god as the creator of all*
+>- Pantheism: everything has an *inner nature* that is common to all - God
 
 Due to modernization, we need to change the perspective from **"God up there"** to **"God out there"**
 
 ***All basic attributes of God should not be contradicting to one another.***
+
 ## Attributes of God
 ---
-### Omnipotence
+
+### 1 Omnipotence
 ---
 - He can do all things that in his power to do.
 - **No contradiction** in terms - absolute impossibility; logically impossible
-- He can do anything that is an **absolute possibility** and n*ot inconsistent with any of his basic attributes*
-###  Omnibenevolence
+- He can do anything that is an **absolute possibility** and *not inconsistent with any of his basic attributes*
+
+###  2 Omnibenevolence
 ---
 - Worthy of *praise and worship*
 
-*If God is good why is there evil?*
+***If God is good why is there evil?***
 - Because God is not perfectly good
-- His decisions giving us **freewill**
+- His decision on giving us **freewill**
 
-**Natural Evil**
+**Natural Evil** occurs
 - To yield for greater good
 
-### Self-existence
+### 3 Self-existence
 ---
-
 God's existence is explained by **another?**
 - from another
 
@@ -43,7 +45,7 @@ God's existence is explained by **nothing?**
 God's existence is explained by **itself?**
 - the one that makes most sense
 
-### Separation
+### 4 Separation
 ---
 - Rejects *pantheism*
 	*"God cannot be within anyone of us, as there would be an end. There should be no end to God"*
@@ -51,7 +53,7 @@ God's existence is explained by **itself?**
 - Difference on *reality of God* and the *reality of the world*
 	- Divine is **eternal**, mortal is ever **changing**
 
-### Independent
+### 5 Independent
 ---
 - God should not be bounded nor governed of any law. *ex. laws of space and time*
 
@@ -65,9 +67,9 @@ God's existence is explained by **itself?**
 - God's time is **all-present**
 
 *"All possibilities of us, are already present to God."*
-###  Eternal
+###  6 Eternal
 ---
 - concept of **endless**
 
-Cannot be:
+***Cannot be***:
 - **Temporal Existence**: no beginning nor end, infinite in both temporal directions. But this is **contradicting**. As God should not be bound in "temporal", as he is not bounded by **space** nor **time.**
