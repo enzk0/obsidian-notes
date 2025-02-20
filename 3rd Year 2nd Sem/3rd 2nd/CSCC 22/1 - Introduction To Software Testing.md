@@ -23,8 +23,20 @@ Semester: 2nd
 > **testing**, aims to locate undiscovered errors.
 > **SRS**, System Requirements Specification.
 > **static testing**,  testing without executing the actual code
-> **dynamic testing**, testing with executing the x
-> 
+> **dynamic testing**, testing with executing the code, runtime behavior
+
+## What is Software Testing
+---
+1. **Debug**, successful correction of failure
+2. **Demonstrate**, process of showing major features work with input
+3. **Verify**, process of finding many faults in the ***application under test*** or ***AUT***
+4. **Validate**, process of finding many faults in *requirements*, *design*, and *AUT*
+5. **Prevent**, avoid errors in requirements, design, and implementation by self-checking techniques, like "test before design"
+
+*"Software testing is the process of executing a program or system with the intent of finding errors"* - Myers
+
+
+
 ## What is testing?
 ---
 *to be added*
