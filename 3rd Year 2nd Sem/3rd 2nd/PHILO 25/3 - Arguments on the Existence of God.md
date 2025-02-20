@@ -157,16 +157,16 @@ Fifth Proof, *teleological*:
 	- analogy between a watch and the natural world.
 	- stumbles (experiences) upon a watch (universe) leads to a conclusion that there is a watchmaker that determines the parts and design
 - **Complexity and Design**
-	- complexity and design of evident on existing beings
+	- complexity and design of evident on *existing beings*, and to an unbiased person
 - **Variety and Functionality**
 	- variety of lifeforms, adapting to its environment
 	- gives of an idea that *intentional design* is present, rather it being a chance
 - **Adaptation and Purpose**
-	- design is intended to fulfill a particular function
+	- design is intended to *fulfill a particular function*
 	- even the intricate parts, signifying that there is an intelligent creator
 - **Interdependence and Chance**
 	- there is independency of parts
-	- but *"chance"* will not produce such order and purpose given the consistency, even replication.
+	- but ***"chance"*** will not produce such *order and purpose given the consistency*, even *replication*.
 
 #### Watchmaker Arguments
 ---
