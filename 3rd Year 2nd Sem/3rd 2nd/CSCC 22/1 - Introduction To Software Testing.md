@@ -35,33 +35,16 @@ Semester: 2nd
 
 *"Software testing is the process of executing a program or system with the intent of finding errors"* - Myers
 
+#### Not
+- ***Not*** a process of demonstrating software errors are not present
+- ***Not*** a process of showing that program functions runs correctly
+- ***Not*** a process of establishing confidence that a program works correctly
 
+*"Testing is basically a task of locating errors"*
 
-## What is testing?
----
-*to be added*
-Testing Process
-Testing is different from debugging
-- happens from the start
-- intended for quality assurance
-
-## Software Testing
----
-1. Debug
-2. Demonstrate
-3. Verify
-4. Validate
-5. Prevent
-
-Done with the intent of ***finding errors***
-
-**Positive Testing:**
-- looks on the bright side, and feeds correct data to see the right behavior of a software
-**Negative Testing:**
-- opposite to positive testing, in where we feed incorrect data and ensure that errors will be present
-**Positive view of Negative Testing:**
-- Discovering errors before the user does
-- MAKE THE SYSTEM FAIL!
+1. ***Positive Testing***, operate the application as it should be operated
+2. ***Negative Testing***, Test for abnormal operations. ex. not correct inputs
+3. ***Positive View of Negative Testing***, job of testing is to discover errors before users. A *good tester* makes the program fail. **DESTROY!!!**
 
 $$ SoftwareTesting = Software Verification + Software Validation$$
 
@@ -75,7 +58,10 @@ $$ SoftwareTesting = Software Verification + Software Validation$$
  - *am I developing the right product?*
 - already the **end** product
 
+![[Pasted image 20250220210112.png]]
+
 *Verified but not Validated*
+
 
 ### Test Cases
 ---
