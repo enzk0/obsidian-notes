@@ -16,6 +16,7 @@ Semester: 2nd
 - Originator of **Ontological Argument**
 	- *Medieval Period*: Contemplated on whether God exists or not.
 	- Philosophy was the *handmaid of Theology*. Philo helped Theo.
+
 #### Idea of God
 > *Id quo maius cogitari nequit*:  that than which nothing greater can be thought of
 - the greatest conceivable being
@@ -85,28 +86,31 @@ Semester: 2nd
 - Compendium of theology
 - was an unfinished book due to the reasoning that "For I am writing someone greater, I could not possibly define it?"
 
-### 5 
-#### Motion
+### The Five Proofs
+#### 1 Motion
 ---
 First Proof, *cosmological*: 
 - Changing *potentiality* to *actuality*
 - Motion allows us to grasp its existence
 - *God is the **Prime Mover***
-#### Cause and Effect
+
+#### 2 Cause and Effect
 ---
 Second Proof, *cosmological*: 
 - Everything in reality is *caused* by something else
 - **Causation** relationship between cause and effect, *cause brings effect*
 - If there would be many "causes", it would ruin the process in the long run
 - *God is the **Uncaused** **Cause***
-#### Possibility and Necessity
+
+#### 3 Possibility and Necessity
 ---
 Third Proof, *cosmological*: 
 - Everything needs something to exist, thus *Contingent Beings*
-- contingency - somethings needs something to exist
-- necessary - something that exists on its own
+> **contingency** - somethings needs something to exist
+> **necessary** - something that exists on its own
 - *God is the **Necessary Being** (self-existence)*
-#### Gradation of Perfection
+
+#### 4 Gradation of Perfection
 ---
 Fourth Proof, *cosmological*: 
 - Our existence is limited
@@ -114,7 +118,8 @@ Fourth Proof, *cosmological*:
 	- flicker -> burn -> flame -> fire
 - **Gradation**: varying degrees of qualities of existence, signifying that there must be a perfect one
 - *God is the **Perfect Being***
-#### Governance of the Things
+
+#### 5 Governance of the Things
 ---
 Fifth Proof, *teleological*:
 - everything has order and purpose
@@ -136,8 +141,9 @@ Fifth Proof, *teleological*:
 ### William Paley
 ---
 - English Angelican priest, theologian, moral philosopher
-- A writer on christianity, ethics, and science
-- Has own standard exposition in english theology of the teleological argument for the existence of God
+- A writer on Christianity, ethics, and science
+- Has own standard exposition in English theology of the teleological argument for the existence of God
+
 ### Classical Design Argument
 ---
 - teleological argument
