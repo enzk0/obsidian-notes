@@ -86,3 +86,10 @@ Semester: 2nd
 	- Characterized precisely by the fact that they ignore, postpone, or even reject the conjugal commitment.  Grave consequences are derived from this.
 
 ## Homosexuality
+---
+- In Christianity, every person is an adopted son/daughter of God.  Adoption demands rejection of any sinful act, including those acts that intend sexual arousal or stimulation between persons of the same sex. The Church teaches that such acts violate the divine and natural law. 
+- The Church, however, clarifies that homosexual desires can only become sinful when these are acted out and deliberately engaged into through fantasies by persons with homosexual inclinations.
+
+## Same-sex Marriage
+---
+- "The Church seeks to enable every person to live out the universal call to holiness. Persons with a homosexual inclination ought to receive every aid and encouragement to embrace this call personally and fully. This will unavoidably involve much struggle and self-mastery, for following Jesus always means following the way of the Cross...The Sacraments of the Eucharist and of Penance are essential sources of consolation and aid on this path."
