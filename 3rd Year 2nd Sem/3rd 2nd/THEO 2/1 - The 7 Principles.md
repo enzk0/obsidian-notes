@@ -61,4 +61,3 @@ Semester: 2nd
 - Putting our shoes in others and understand what their life is.
 
 *“highlights in a particular way the intrinsic social nature of the human person, the equality of all in dignity and rights and the common path of individuals and peoples towards an ever more committed unity.”*
-
