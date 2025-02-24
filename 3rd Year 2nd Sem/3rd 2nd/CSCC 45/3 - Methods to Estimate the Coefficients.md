@@ -21,3 +21,20 @@ $$ Residual = y - y'$$
 
 ## Maximum Likelihood Estimation
 ---
+
+## Linearity
+---
+- if x increases, y increases - positivity
+- if x increases, y decreases - negativity
+
+## Independence
+---
+
+## Homoscedasticity
+---
+
+$$ Var(\varepsilon) = \sigma^2$$
+
+## Normal Distribution
+---
+$$ \varepsilon  N(0, \sigma^2)$$
