@@ -62,5 +62,30 @@ Both are, however, *different to each other*. We tabulate The differences betwee
 	- It is also not possible to develop an algorithm for generating test data for paths in an arbitrary product due to the mobility to determine path feasibility.
 4. ***No Absolute Proof of Correctness***
 	- Howden claims that there is *no such thing* as an *absolute proof of correctness*. 
-	- However, there are *proofs of equivalency*, i.e., proofs that one description of a product is equivalent to another description. 
+	- However, there are *proofs of equivalency*, i.e., *proofs that one description of a product* is *equivalent to another description*. 
 	- Hence, unless a formal specification can be shown to be correct and, indeed, reflects exactly the user's expectations, no claims of product correctness can be made
+
+## Categorizing V&V Techniques
+---
+![[Pasted image 20250226133816.png]]
+
+- ***white-box testing*** is that it checks for interface errors at the module level
+- ***black-box testing*** can also be done at the module level by testing boundary conditions and low-level functions like correctly displaying error messages.
+
+## Role of V&V in SDLC
+---
+***Traceability Analysis***
+- traces each *software requirement* back to the *system requirements established* in the concept activity. 
+- ensuring that each requirement correctly satisfies the system requirements and that no extraneous software requirements are added. 
+- in this technique, it determines whether any derived requirements are consistent with the original objectives, physical laws, and the technologies described in system document.
+
+***Interface Analysis***
+- It is the detailed examination of the interface requirements specifications. 
+- The evaluation criteria is the same as that for requirements specification. 
+- The main focus is on the *interfaces* between *software*, *hardware*, *user*, and *external* *software*.
+
+**Criticality Analysis**
+
+Criticality is assigned to each software requirement. When requirements are combined into functions, the combined criticality of requirements form the criticality for the aggregate function. Criticality analysis is updated periodically as requirement changes are introduced. This is because such changes can cause an increase or decrease in a functions criticality which depends on how the revised requirement impacts system criticality.
+
+Criticality analysis is a method used to locate and reduce high-risk problems and is performed at the beginning of the project. It identifies the functions and modules that are required to implement critical program functions or quality requirements like safety, security, etc.
