@@ -38,10 +38,29 @@ _"a systems engineering process employing a rigorous methodology for evaluating 
 
 Both are, however, *different to each other*. We tabulate The differences between them are shown below.
 
-|Quality Assurance (QA)|Quality Control (QC)|
-|---|---|
-|1. It is process related.|1. It is product related.|
-|2. It focuses on the process used to develop a product.|2. It focuses on testing of a product developed or a product under development.|
-|3. It involves the quality of the processes.|3. It involves the quality of the products.|
-|4. It is a preventive control.|4. It is a detective control.|
-|5. Allegiance is to development.|5. Allegiance is not to development.|
+| Quality Assurance (QA)                                  | Quality Control (QC)                                                            |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 1. It is process related.                               | 1. It is product related.                                                       |
+| 2. It focuses on the process used to develop a product. | 2. It focuses on testing of a product developed or a product under development. |
+| 3. It involves the quality of the processes.            | 3. It involves the quality of the products.                                     |
+| 4. It is a preventive control.                          | 4. It is a detective control.                                                   |
+| 5. Allegiance is to development.                        | 5. Allegiance is not to development.                                            |
+
+## V & V Limitations
+---
+ Overall *objective* of software ***V&V approaches***:
+ - ensure that the product is free from failures
+ - meets user expectations
+
+1. ***Theoretical Foundations***
+	- Howden claims the *most important theoretical result* in program testing and analysis is that *no general purpose testing or analysis procedure can be used to prove program correctness.*
+2. ***Impractically of Testing All Data***
+	- For most programs, it is *impractical* to attempt to test the program with *all possible inputs due* to a *combinational explosion*.
+	- For those inputs selected, a *testing oracle* is needed to determine the correctness of the output for a particular test input.
+3. ***Impractically of Testing All Paths***
+	- For most programs, it is *impractical* to attempt to *test all execution* paths through the product due to a *combinational explosion*. 
+	- It is also not possible to develop an algorithm for generating test data for paths in an arbitrary product due to the mobility to determine path feasibility.
+4. ***No Absolute Proof of Correctness***
+	- Howden claims that there is *no such thing* as an *absolute proof of correctness*. 
+	- However, there are *proofs of equivalency*, i.e., proofs that one description of a product is equivalent to another description. 
+	- Hence, unless a formal specification can be shown to be correct and, indeed, reflects exactly the user's expectations, no claims of product correctness can be made
