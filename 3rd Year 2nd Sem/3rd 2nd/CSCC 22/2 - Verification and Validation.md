@@ -9,7 +9,7 @@ Semester: 2nd
 ---
 > [!TERM] Software Verification and Validation (V&V)
 > - a technical discipline of systems engineering.
-> - parallel with software development, *not* at the end of development
+> - done in parallel with software development, *not* at the end of development
 > 
 
 _"a systems engineering process employing a rigorous methodology for evaluating the correctness and quality of software product through the software life cycle."_ 
@@ -30,11 +30,11 @@ _"a systems engineering process employing a rigorous methodology for evaluating 
 
 ## Difference Between QA and QC
 ---
-> [!Term] ***Quality assurance***
-> - a planned and systematic activities implemented in a quality system so that quality requirements for a product or service
+> [!Term] ***Quality Assurance***
+> - The planned and systematic activities implemented in a quality system so that quality requirements for a product or service will be fulfilled
 
-> [!Term] ***Quality control***
-> - the observation techniques and activities used to fulfill requirements for quality.
+> [!Term] ***Quality Control***
+> - The observation techniques and activities used to fulfill requirements for quality.
 
 Both are, however, *different to each other*. We tabulate The differences between them are shown below.
 
@@ -80,21 +80,19 @@ Both are, however, *different to each other*. We tabulate The differences betwee
 - in this technique, it determines whether any *derived requirements* are *consistent with the original objectives*, physical laws, and the technologies described in system document.
 
 ***Interface Analysis***
-- It is the detailed examination of the interface requirements specifications. 
+- It is the detailed examination of the interface *requirements specifications*. 
 - The evaluation criteria is the same as that for requirements specification. 
 - The main focus is on the *interfaces* between *software*, *hardware*, *user*, and *external* *software*.
 
 ***Criticality Analysis***
-
 - *Criticality* is assigned to each *software requirement*. 
-- When requirements are combined into functions, the combined criticality of requirements form the criticality for the *aggregate function*. 
+- When requirements are combined into functions, the combined criticality of requirements form the criticality form the *aggregate function*. 
 - *Criticality analysis* is updated periodically as *requirement changes are introduced*
 - This is because such changes can cause an increase or decrease in a functions criticality which depends on how the revised requirement impacts system criticality.
 - ***Criticality analysis*** is a method used to *locate and reduce high-risk problems and is performed at the beginning of the project*. 
 - It identifies the functions and modules that are required to implement critical program functions or quality requirements like safety, security, etc.
 
 ***Hazard and Risk Analysis***
-
 - Done during the *requirements definition activity*. 
 - *Hazards* or *risks* are identified by further *refining* the *system requirements* into *detailed software requirements*. 
 - The risks are *assessed* for their *impact on the system*. 
