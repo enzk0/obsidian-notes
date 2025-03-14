@@ -87,4 +87,16 @@ Netwroks Calbe
 WHAT CABLING TO CHOOSE?!
 
 Coaxial cable
-- 
+- electric cable that transmits radio frequency
+- plastic jacket, mettalic shield, dielectric insulator, then copper as core
+- data and video travel throuhg
+- found in tvs
+
+advantages
+- reliabla
+- cost effectyice
+- ease of installationg
+
+Fiber Optics
+- complicated in splice and taod
+- advanced type of network cable, improved performance
