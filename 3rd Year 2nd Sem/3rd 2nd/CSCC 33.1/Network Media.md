@@ -49,17 +49,42 @@ Ethernet
 - Has a standard
 
 Ethernet Cables
-- provide internet connectoin
+- provide internet connection
 - connect devices to LAN
 
 Ethernet Structure
-- twisted pair cable, industry standard, maximum length and speedrun
+- twisted pair cable, industry standard, maximum length and speed run
 - less electrical noise due to twisted pair balance
-- eliminate noise
+- eliminate noise, emi or electromagnetic interference
 - minimize signals leaking, known as crosstalk
 
 Straight Through cable
-- often known as patch cables used to connect different types of devices
+- often known as patch cables used to connect different types of devices, like computer to routers
 
 Cross over cables
 - used to connect two devices of the same kind, like two computers
+
+Categories
+- CAT, refers to different set of standards
+- CAT1, 1mb
+- CAT2, 4mb
+- CAT3, 10mb
+- CAT4, 16mb
+- CAT5, 100mb
+- CAT5e, 1gb
+- CAT6, 1g
+- CAT6a, 10gb
+- CAT7, 10gbps
+- CAT7a, 10gbps
+- CAT8.1, 25gbps
+- CAT8.2, 40gpbs
+
+Netwroks Calbe
+- types of cable that connects computers and other devices to a netwrosl
+- backbone of a network
+- allow communication within the network, send and recevei
+
+WHAT CABLING TO CHOOSE?!
+
+Coaxial cable
+- 
