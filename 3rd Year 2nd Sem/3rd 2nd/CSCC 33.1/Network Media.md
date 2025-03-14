@@ -100,3 +100,6 @@ advantages
 Fiber Optics
 - complicated in splice and taod
 - advanced type of network cable, improved performance
+- higher bandwtihdt, no emis, reduced signal aattunetaition, lesser weight, increased safetyr
+- ueses light
+- 
