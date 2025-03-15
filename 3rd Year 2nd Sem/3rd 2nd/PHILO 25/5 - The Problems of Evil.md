@@ -19,7 +19,7 @@ Semester: 2nd
 - The defense then of Theism is that people have ***free-will***.
 	- Thus, it is logically impossible for God to create free creatures but limit them on not doing evil. In a sense, limiting them is not free at all.
 - Free-will for Moral Evil
-	- Freedom might be a great enough good that God is justified in permitting evil in order to make room for freedom.
+	- God finds freedom so inherently good or great such that, even if freedom may cause evil, it is justifiable for God to allow the existence of freedom
 - Justification of Natural Evil
 	- A first argument that it was the work of the devil and his angels
 	- Another is that it is a part of the physical laws necessary for consistent balancing action where humanity is held accountable for their free-will
