@@ -1,7 +1,5 @@
 
 ---
-
-Network Media
 - any form of media or channel used for data travel
 - wired or wireless
 
