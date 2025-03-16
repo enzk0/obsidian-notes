@@ -40,3 +40,5 @@ Semester: 2nd
 2. **Theodicy**
 	- A theory whose claim is to explain why God in fact permits evil but not provide a solution to the problem of evil.
 
+
+
