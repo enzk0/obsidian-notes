@@ -23,19 +23,13 @@ Semester: 2nd
 - **The Duty of Work** states that work is an essential duty of humanity as it cultivates the body and soul, provides the needs for the person, and helps the person contribute to society.
 - **The Duty of Work** also states that no Christian would find it acceptable to not work and live at the expense.
 
-  
-  
-
----
 
 ## THE PROPHETIC VALUE OF RERUM NOVARUM
-
+---
 ### Rerum Novarum.
-
+---
 - **Rerum Novarum** is a heartfelt defense of the inalienable dignity o workers, connected with the importance of the right to property, the principle of cooperation among the social classes, the right of the weak and the poor, and the obligations of workers and employers and the right to form associations.
 - **Rerum Novarum** was made by Pope Leo XIII to address the violations of the rights of workers during the Industrial Revolution and the emergence of Liberal and Marxist *(e.g. socialist, communist)* theories.
-
-  
 
 ### Laborem Exercens.
 ---
@@ -57,8 +51,6 @@ Semester: 2nd
 ### Work, The Right to Participate.
 ---
 - **Work, The Right to Participate** states that work is one of the ways one can participate in society.
-
-  
 
 ### The Relationship between Labor and Private Property.
 ---
