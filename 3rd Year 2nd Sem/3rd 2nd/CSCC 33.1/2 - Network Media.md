@@ -65,47 +65,47 @@ Semester: 2nd
 - eliminate noise, emi or electromagnetic interference
 - minimize signals leaking, known as crosstalk
 
+**Categories of Ethernet Cable**
+- CAT, refers to different set of standards
+	- CAT1, 1mb
+	- CAT2, 4mb
+	- CAT3, 10mb
+	- CAT4, 16mb
+	- CAT5, 100mb
+	- CAT5e, 1gb
+	- CAT6, 1g
+	- CAT6a, 10gb
+	- CAT7, 10gbps
+	- CAT7a, 10gbps
+	- CAT8.1, 25gbps
+	- CAT8.2, 40gpbs
 
-Straight Through cable
+
+***Straight Through Cable***
 - often known as patch cables used to connect different types of devices, like computer to routers
 
-Cross over cables
+***Cross over cables***
 - used to connect two devices of the same kind, like two computers
 
-Categories
-- CAT, refers to different set of standards
-- CAT1, 1mb
-- CAT2, 4mb
-- CAT3, 10mb
-- CAT4, 16mb
-- CAT5, 100mb
-- CAT5e, 1gb
-- CAT6, 1g
-- CAT6a, 10gb
-- CAT7, 10gbps
-- CAT7a, 10gbps
-- CAT8.1, 25gbps
-- CAT8.2, 40gpbs
-
-Netwroks Calbe
-- types of cable that connects computers and other devices to a netwrosl
+***Networks Cable***
+- types of cable that connects computers and other devices to a networks
 - backbone of a network
-- allow communication within the network, send and recevei
+- allow communication within the network, send and receive
 
-WHAT CABLING TO CHOOSE?!
-
-Coaxial cable
+#### WHAT CABLING TO CHOOSE?!
+---
+***Coaxial Cable***
 - electric cable that transmits radio frequency
-- plastic jacket, mettalic shield, dielectric insulator, then copper as core
+- plastic jacket, metallic shield, dielectric insulator, then copper as core
 - data and video travel through
 - found in TVs
+	
+	*Advantages of Coaxial Cable*
+	- reliable
+	- cost effective
+	- ease of installation
 
-advantages
-- reliable
-- cost effective
-- ease of installation
-
-Fiber Optics
+***Fiber Optics***
 - complicated in splice and in assembling
 - advanced type of network cable, improved performance
 - higher bandwidth, no emi's, reduced signal attenuation, lesser weight, increased safety
