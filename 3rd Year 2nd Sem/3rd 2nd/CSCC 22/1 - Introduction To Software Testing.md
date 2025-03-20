@@ -35,7 +35,7 @@ Semester: 2nd
 
 *"Software testing is the process of executing a program or system with the intent of finding errors"* - Myers
 
-#### Not
+#### What is Not Testing
 - ***Not*** a process of demonstrating software errors are not present
 - ***Not*** a process of showing that program functions runs correctly
 - ***Not*** a process of establishing confidence that a program works correctly
@@ -50,7 +50,7 @@ $$ SoftwareTesting = Software Verification + Software Validation$$
 
 ##### Software Verification
  - Verifies if requirements are fulfilled during **development phase**
- - according to the requirements
+ - according to the requirements, SRS, design
  - *am I developing the product right?*
 ##### Software Validation
  - Verifies if requirements are fulfilled **after the development phase**
