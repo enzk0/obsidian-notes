@@ -7,7 +7,7 @@ Network Media
 
 1. Guided Media
 	1. Coaxial
-	2. Ethernet
+	2. Twisted Pair
 	3. Fiber Optic
 2. Unguided Media
 
