@@ -175,3 +175,85 @@ This is integral ecology: “The social and environmental crises are intertwined
 ---
 **Key Concepts:** The Catholic Social Teaching principle of subsidiarity teaches that challenges should be addressed at the lowest possible - but highest necessary – level of society is needed to protect and promote the common good. There is a need to move to affordable and renewable energy. Countries which benefited most of industrialization should subsidize developing countries to access to technology, technical transfer, and financial assistance (LS no. 170-171) enable them to participate in the process.
 
+Sustainable Development, Global Dialogue, Political and Economic Reform, Technological Responsibility, Integral Ecology in Policy
+
+### 🔹 Main Idea
+This section outlines practical strategies for responding to the ecological crisis, emphasizing the need for unified global action, ethical leadership, policy reform, and inclusion of the poor in sustainable development efforts.
+
+---
+### 🔹 Key Points
+1. Dialogue on the Environment in International Politics  
+	- Environmental issues must be addressed through global consensus and cooperation.  
+	- Wealthier nations have a greater responsibility due to historical emissions and greater resources.  
+2. Local and National Policies Matter  
+	- While international efforts are essential, local governance, transparency, and citizen engagement are crucial for implementing environmental protections.  
+3. Policy and Economy Reform  
+	- Environmental and social concerns must be integrated into economic and political decision-making.  
+	- There is a need to resist short-term profit motives in favor of long-term sustainability.  
+4. Technology and Innovation with Ethical Boundaries  
+	- Technology should serve humanity and the environment, not exploit or harm.  
+	- Critical assessment of technological developments is needed to align them with human values and ecological well-being.  
+5. Involving All Stakeholders  
+	- Inclusive dialogue should involve governments, businesses, scientists, and civil society.  
+	- The poor must be central in these conversations, as they are most affected by environmental degradation.  
+6. Ecological Conversion in Institutions  
+	- Institutions, especially those within the Church, are called to adopt sustainable practices and promote education for ecological awareness.  
+---
+
+### 🔑 Key Terms to Know
+- Sustainable Development: Progress that meets current needs without compromising future generations’ ability to meet theirs.  
+- Common Good: The well-being of all people and the planet, prioritized over individual or corporate interests.  
+- Political Will: The moral and practical determination of leaders to pursue ecological justice.  
+- Intergenerational Justice: Responsibility to protect the environment for future generations.  
+- Global Dialogue: International cooperation rooted in mutual respect and ethical responsibility.  
+- Technocratic Paradigm: A worldview that prioritizes technology and profit over ethical and ecological considerations.  
+- Grassroots Movements: Community-led efforts that drive political and environmental reform from the bottom up.  
+---
+The Church teaches that effective ecological action requires cooperation at all levels—local to global—with renewed moral commitment from individuals, institutions, and nations to reform structures and care for our common home.
+
+Pope Francis identifies five major paths of dialogue: to come up with a common plan for the world (interdependence); national and local policies to promote best practices; a special place at the table of the most affected communities; politics and economy should work together; and religion and science help each other.
+
+## Ecological Education and Spirituality
+---
+Key Concepts. The ecological crisis calls for “personal and communal” conversion and “collective selfishness” through “ecological education” and invites all peoples, regardless of religion, to ecological friendly lifestyles.
+
+Ecological Conversion, Integral Ecology, Education for Sustainability, Contemplation, Simplicity, Inner Transformation
+### 🔹 Main Idea
+This section emphasizes the need for a cultural and spiritual revolution that reshapes how we think, live, and educate future generations. It calls for ecological education and spirituality to foster lasting change in personal habits and societal structures.
+
+---
+### 🔹 Key Points
+1. Need for a New Lifestyle  
+	- Overconsumption and indifference harm the environment.  
+	- True change begins with personal decisions rooted in values, not just laws.  
+2. Ecological Education  
+	- Education systems should teach respect for creation and interconnectedness.  
+	- Schools, families, and media must cultivate ecological responsibility and critical thinking.  
+3. Spirituality and Contemplation  
+	- A spiritual relationship with nature deepens love and care for the Earth.  
+	- Christian spirituality inspires gratitude, humility, and joy in simple living.  
+4. Inner Peace and Outer Action  
+	- A peaceful inner life empowers one to live mindfully and resist consumerism.  
+	- Small acts of love and conservation make a real difference.  
+5. Conversion and Community  
+	- Ecological conversion is both individual and communal.  
+	- Faith communities should model sustainable practices and support ecological efforts.  
+6. Joy and Gratitude  
+	- Living sustainably should not be seen as deprivation, but as freedom and fulfillment.  
+	- Joyful simplicity is spiritually enriching and socially impactful.  
+
+---
+### 🔑 Key Terms to Know
+- Ecological Conversion: A deep transformation of heart and mind that leads to environmentally responsible living.  
+- Integral Ecology: A holistic approach linking care for the environment with social justice and personal ethics.  
+- Simplicity: Choosing a life of moderation, sufficiency, and detachment from materialism.  
+- Contemplation of Nature: Spiritual reflection that recognizes God in the beauty and harmony of the natural world.  
+- Educational Alliances: Cooperation between families, schools, and society to promote ecological awareness.  
+- Consumerism: A lifestyle driven by material excess, opposed to sustainable and spiritual living.  
+- Spiritual Freedom: Inner detachment that enables joyful commitment to the common good.  
+
+---
+
+The Church teaches that true ecological change must begin with a transformation of the human heart—where education, community, and spirituality converge to foster a renewed relationship with creation.
+
+Above all, we are called to a “new ecological sensitivity” and “ecological conversion” (LS 209) and to develop “a civilization of love” for others and for the world (LS no. 229).
