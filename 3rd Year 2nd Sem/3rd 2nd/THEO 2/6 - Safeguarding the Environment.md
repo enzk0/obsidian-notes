@@ -56,33 +56,33 @@ This section affirms that the natural world is a sacred gift from God, rooted in
 
 ---
 ### 🔹 Key Points
-1. Creation as a Loving Act of God  
+1. **Creation as a Loving Act of God**  
 	- The universe is the result of divine love, not random chance.  
 	- Creation reveals God’s presence, beauty, and purpose.  
-2. Human Role in Creation  
+2. **Human Role in Creation**  
 	- Humans are created in God's image, entrusted with stewardship over the Earth—not domination.  
 	- Our responsibilities include care, respect, and protection of all life forms.  
-3. Universal Communion  
+3. **Universal Communion**  
 	- All creatures are connected and part of one family.  
 	- Exploiting nature disrupts the harmony of creation.  
-4. Jesus and Creation  
+4. **Jesus and Creation**  
 	- Christ is present in creation and his life affirms its sacredness.  
 	- The New Testament deepens the call to live in peace with creation.  
-5. Sin and Ecological Harm  
+5. **Sin and Ecological Harm**  
 	- Environmental destruction is a moral issue rooted in human pride and disobedience.  
 	- Reconnecting with creation helps us reconnect with God.  
-6. Biblical Inspiration for Ecological Living  
+6. **Biblical Inspiration for Ecological Living**  
 	- The Bible urges humility, gratitude, and praise for creation.  
 	- Key figures like St. Francis embody this spiritual attitude.  
 ---
 ### 🔑 Key Terms to Know
-- Creation: The universe as a manifestation of God's love and purpose.  
-- Stewardship: Caring for creation with responsibility and reverence.  
-- Universal Communion: Spiritual and physical interconnectedness of all beings.  
-- Human Dignity: The sacred value of each person, mirrored in our care for creation.  
-- Dominion vs. Care: Rejection of exploitative control in favor of loving stewardship.  
-- Intrinsic Value: The belief that every creature has worth beyond its usefulness.  
-- Biblical Ecology: A faith-based understanding of our relationship with the natural world.  
+- **Creation**: The universe as a manifestation of God's love and purpose.  
+- **Stewardship**: Caring for creation with responsibility and reverence.  
+- **Universal** **Communion**: Spiritual and physical interconnectedness of all beings.  
+- **Human Dignity**: The sacred value of each person, mirrored in our care for creation.  
+- **Dominion vs. Care**: Rejection of exploitative control in favor of loving stewardship.  
+- **Intrinsic Value**: The belief that every creature has worth beyond its usefulness.  
+- **Biblical Ecology**: A faith-based understanding of our relationship with the natural world.  
 ---
 The Church teaches that creation is a reflection of God's glory, and human beings—called to live in communion with all life—must protect and cherish it as a sacred trust.
 
