@@ -1,4 +1,4 @@
-
+ 
 ## What is Happening to Our Common Home 
 
 **Key Concepts.** Scientific studies in recent decades indicate that most global warming is a result of human activity that brings about great concentration of greenhouse gases and endangers the climate, our common home (LS no. 23). The harmful effects of the global problem on climate change have grave environmental, social, economic, political, and distribution of goods (LS no. 25). And it calls for an urgent need to develop policies to drastically reduce or substitute fossil fuels and develop sources of renewable energy (LS no. 26).
