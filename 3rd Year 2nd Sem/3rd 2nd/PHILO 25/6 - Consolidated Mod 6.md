@@ -5,6 +5,12 @@ Course: ITCC 21.1
 ---
 ----
 
+> [!NOTE] Topics
+> - ***Otto's Idea of Holy***
+> - ***Eliade's The Sacred and the Profane***
+> - ***Miracles and the Modern Worldview***
+
+
 > [!NOTE] Keywords
 > - Limitations of Rationality
 > - Over-rationalizing God
@@ -21,7 +27,8 @@ Course: ITCC 21.1
 > - Mysterium Tremendum
 > - Sacred Time
 > - Profane Space
-> - 
+> - Miracle
+> - Modern World View
 
 # Topic - Idea of Holy
 ---
@@ -210,3 +217,6 @@ There are conditions that are not sufficient and not necessary for something bei
 - Violation of the law of nature
 
 If someone already believes in a providential God who can intervene in the world, then accepting the possibility of miracles becomes more rational.
+
+### Insights
+---
