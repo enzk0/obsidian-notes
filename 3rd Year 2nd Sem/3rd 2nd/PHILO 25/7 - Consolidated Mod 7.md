@@ -188,3 +188,6 @@ Through ***Process Philosophy***
 | **Reformed Epistemology**               | - By Alvin Platinga<br>- It is about beliefs of God can be basic, accepted without proof. Like daritso<br>- Some beliefs can be rational if they came from reliable cognitive faculties |
 | **Will to Believe**                     | - In genuine, forced, and momentous choice experiences, that leads to transformative changes. Belief on God can be rational without sufficient evidefnce                                |
 
+# My Insights
+---
+We are truly in the globalized and modern world right now. And it is really true that encounters of people following different beliefs and traditions occur most frequently now in this era. I've got friends from different religions and not to mention that I am already a globalized person since I 

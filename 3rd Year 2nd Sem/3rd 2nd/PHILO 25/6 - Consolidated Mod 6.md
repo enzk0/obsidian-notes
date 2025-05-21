@@ -221,6 +221,10 @@ There are conditions that are not sufficient and not necessary for something bei
 
 If someone already believes in a providential God who can intervene in the world, then accepting the possibility of miracles becomes more rational.
 
-### My Insights
+# My Insights
 ---
-The topic that I find most interesting in this file is Otto's Idea of Holy. Lately I've been feeling that I kind of do not believe in God anymore as a Christian, or rather, I find the rituals such as 
+The topic that I find most interesting in this file is Otto's Idea of Holy. Lately I've been feeling that I kind of do not believe in God anymore as a Christian, or rather, I find the rituals such as going to church or even praying as like a chore. So right now, I'm kind of like agnostic in my point of view in religion. And in my insight, I will take on a position as of an in-between as believer and agnosticism, as I still find it hard to harden my beliefs.
+
+I like Otto's perspective of Holy, in where we explain things through wonder, and that I think is the main selling point in living, we wonder the world and find fun things to live for. Even though I'm kind of like an in between as a believer and agnostic, I did feel or experience a numinous experience. Because whenever I see something beyond me like a beautiful landscape in the mountains, I always find myself in awe and then I would wonder of "Who really made this beautiful view". And there I then instinctively think that "There might be someone greater that did it", and then I kind of feel the creature feeling.
+
+It is also interesting to know the concept of sacred time, sacred space, and the profane. I always thought that local churches are truly the sacred, I mean it is kind of sacred as there we always perform our worship to God and hear the teachings, but what I mean is that they are the most genuinely true sacred. I only knew now that churches in example, are the copies of the sacred space and there is a true sacred space for this in which I forgot. So that is just an interesting thing to learn, and I am always up for interesting trivia and ideas.
