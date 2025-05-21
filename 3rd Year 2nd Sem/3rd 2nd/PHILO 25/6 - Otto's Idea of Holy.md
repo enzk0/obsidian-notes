@@ -5,6 +5,26 @@ Course: ITCC 21.1
 ---
 ----
 
+> [!NOTE] Keywords
+> - Limitations of Rationality
+> - Over-rationalizing God
+> - Mysticism
+> - The Importance of the Non-Rational in Theology
+> - Numen
+> - Numenous
+> - Mysterium
+> - Tremendum
+> - Fascinians
+> - Sui Generis
+> - Creature Feeling
+> - Creature Consciousness
+> - Mysterium Tremendum
+> - Sacred Time
+> - Profane Space
+> - 
+
+# Topic - Idea of Holy
+---
 #### Rudolf Otto
 ---
 - Rudolf Otto was a German theologian and philosopher of religion.
@@ -88,3 +108,105 @@ Course: ITCC 21.1
 The feeling of Tremendum is a mix of: ***Awe/Dread + Overpowering Majesty + Dynamic Energy***. Otto asserts that this non-rational core must remain central to avoid reducing religion to mere ethics or rational theology.
 
 
+# Topic - Eliade's The Sacred and the Profane
+---
+### Mircea Eliade
+---
+- He is a prominent figure of religious studies and comparative religion
+- His main contributions are in the understanding of religious symbolism, mythology, and the sacred
+
+## Sacred Space and Making the World Sacred
+---
+**Sacred Space**
+- a place where it is apart from the ordinary world, believed to hold special significance or power
+- a place where the transcendent is believed to manifest in a unique way
+- religious rituals, ceremonies, and encounters on the sacred
+
+**Profane Space**
+- the ordinary, everyday environment
+- lacks special significance or power
+- the secular world
+- common places
+
+Key Characteristics
+
+| Sacred Space                                                         | Profane Space                   |
+| -------------------------------------------------------------------- | ------------------------------- |
+| Set Apart<br> - separate                                             | Everydayness                    |
+| Transcendence<br> - threshold to a higher transcendent reality       | Lack of Transcendence           |
+| Revelatory Power<br> - encounters or get revelations with the sacred | Abscence of Ritual Significance |
+| Axis Mundi<br> - Center of the world                                 | Absence of Set Apartness        |
+| Has Respect and Reverence                                            | Lack of Reverence               |
+| Creation of Sacred Time                                              | Utilitarian Functions           |
+
+## Sacred Time and Myths
+---
+**Sacred Time**
+- is paradoxical, appearing as circular, **reversible**, and eternal, akin to a mythical present that is periodically reenacted through rituals
+- this is where people try to reconnect with a sacred time that can be likened to eternity
+- Key Characteristics
+	- Reversibility
+	- Eternal and Unchanging
+	- Mythical Origins
+	- New Beginnings
+	- Transcendence
+	- Interconnected with the Cosmos
+	- Foundation to Rituals and Festivals
+	- Synchronization with the Divine
+
+**Profane Time**
+- ordinary time, non-religious
+
+# Topic - Miracles and the Modern Worldview
+---
+## Miracles: Incompatible with a Scientific World View?
+---
+*“Miracles belong to a pre scientific picture of the world in which supernatural beings invade the natural world and bring about extraordinary events: raising from the dead or turning water into wine.”* 
+- By Rudolf Bultmann
+
+**Modern World View**
+- raised by Science and Technology
+- views nature as a closed, autonomous realm where an event of nature comes from another event of nature
+- this made people no longer believe in miraculous stories
+- leaves little or no room for spirits and miracles
+- Modern people like to accept explanation that is clear and concise
+
+## Hume's Definition of Miracles
+---
+**Miracle's Meaning: Two Senses**
+- Popular
+	- A miracle is unexpected yet beneficial event
+- Strict
+	- A miracle is an event that satisfies two distinct conditions
+		- Nature cannot produce the event
+		- An event that is directly intervened by God or some supernatural agent
+
+**Miracle**
+- an event not following a law that is made by a deity or some supernatural agent
+
+*“A miracle may either be discoverable by men or not. This alters not its nature and essence. The raising of a house or ship into the air is a visible miracle. The raising of a feather, when the wind wants ever so little of a force requisite to that purpose, is as real a miracle, though not so sensible with regard to us. ”*
+- By Hume's Reply
+
+**Objection to Hume's Definition of Miracle**
+There are conditions that are not sufficient and not necessary for something being a miracle. In where:
+- A miracle is a surprising, astounding event. 
+- A miracle serves some important, beneficial purpose.
+
+*"Something may be a miracle even though we are unable to recognize it as such. Being astounding or surprising may be a condition if we are to believe that it is a miracle, not a condition to must be satisfied to be a miracle. Conditions 3 and 4 are necessary for visible miracles not to the invisible ones.*
+
+*In different train example, supposed there is a child who are about to be hit by a train but the train engineer fainted on natural cause had his hand ceases to exert pressure on the control lever bringing the train to halt a few feet from the child. Is it not a miracle? Where is God's intervention?*
+
+*The mother of the child proclaiming it a miracle would say that the timing of the natural causes of fainting was in some way due to God’s intervention. If it happened later may not save the child"*
+- Hume's Reply
+
+**For Hume, Miracles are:**
+- our inability to understand the laws of nature
+- our natural tendency to believe in extraordinary happenings
+- evidence can only be found by witnesses' testimony
+
+**Miracles Explanation: Floating Object**
+- Accordance with a principle
+- Refutation of a principle
+- Violation of the law of nature
+
+If someone already believes in a providential God who can intervene in the world, then accepting the possibility of miracles becomes more rational.
