@@ -1,5 +1,7 @@
- **Lorenz Roel S. Abonitalla**
+ **Student: Lorenz Roel S. Abonitalla**
  **Philo 25 - CCA**
+ Ethics
+ Instructor: Mr. John Carlo E. Sabal
  5/21/2025
  
 > [!NOTE] Topics
@@ -68,3 +70,4 @@
 
 # My Insights
 ---
+Even though I still do not have truly found my true belonging and purpose in the world, this topic just gave me some knowledge on what to do with myself. I always like to wonder and I'm kind of in terms with the concept of Dualism. Dualism where there is both body and soul and that the soul can arrive to anything respective of the belief that you follow in. I want to think that there would be reincarnation that would happen, as I like stories and comics where reincarnation and soul traveling to another world is on the trends. So ill just still do my part as a student, as being a 3rd year is a stress, and ill just worry later in life about what my purpose would be. It may take me years but who knows. Ill just stay true and authentic to myself so that I would not have any regrets in my choices. 

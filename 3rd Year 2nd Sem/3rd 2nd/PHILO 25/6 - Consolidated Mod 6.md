@@ -3,8 +3,10 @@ Semester: 2nd
 Year Level: 3rd
 Course: ITCC 21.1
 ---
- **Lorenz Roel S. Abonitalla**
+ **Student: Lorenz Roel S. Abonitalla**
  **Philo 25 - CCA**
+ Ethics
+ Instructor: Mr. John Carlo E. Sabal
  5/21/2025
  
 > [!NOTE] Topics
