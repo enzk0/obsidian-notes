@@ -5,6 +5,9 @@ Course: ITCC 21.1
 ---
 ----
 
+ **Lorenz Roel S. Abonitalla**
+ **Philo 25 - CCA**
+ 5/21/2025
 > [!NOTE] Topics
 > - ***Otto's Idea of Holy***
 > - ***Eliade's The Sacred and the Profane***
@@ -218,5 +221,6 @@ There are conditions that are not sufficient and not necessary for something bei
 
 If someone already believes in a providential God who can intervene in the world, then accepting the possibility of miracles becomes more rational.
 
-### Insights
+### My Insights
 ---
+The topic that I find most interesting in this file is Otto's Idea of Holy. Lately I've been feeling that I kind of do not believe in God anymore as a Christian, or rather, I find the rituals such as 
