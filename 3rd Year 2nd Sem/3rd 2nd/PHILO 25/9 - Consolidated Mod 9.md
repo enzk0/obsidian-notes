@@ -1,4 +1,8 @@
-# Topic - Conceptions of The Self
+
+
+> [!NOTE] Topics
+> - ***Conceptions of The Self***
+
 
 > [!NOTE] Keywords
 > - Dualism
@@ -11,7 +15,7 @@
 > - Karma
 > - Immortality
 
-
+# Topic - Conceptions of The Self
 
 - This  topic explores how people can understand who they are and what is their purpose.
 - In Western thought, the self is often seen as a separate, independent individual. 

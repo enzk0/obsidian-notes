@@ -1,4 +1,7 @@
-# Topic  - Religion in Context of Globalization
+
+> [!NOTE] Topics
+> - ***Religion in Context of Globalization***
+
 > [!NOTE] Keywords
 > - Globalization
 > - Hinduism
@@ -19,7 +22,7 @@
 > - Reasonable Answers to Fundamental Human Questions
 > - Existential Plausibility
 
-
+# Topic  - Religion in Context of Globalization
 ### Modern Religious Landscape
 ---
 - **Globalization**, has paved the way for many religious diversities and traditions. More than that encounters with people from different traditions and belief are highly possible
