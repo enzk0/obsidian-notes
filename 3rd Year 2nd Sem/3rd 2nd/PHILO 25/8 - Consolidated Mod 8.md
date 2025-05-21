@@ -1,4 +1,7 @@
-
+ **Lorenz Roel S. Abonitalla**
+ **Philo 25 - CCA**
+ 5/21/2025
+ 
 > [!NOTE] Topics
 > - ***Religion in Context of Globalization***
 
@@ -80,3 +83,8 @@
 | Consistency with other Fields                     | - Fundamental claims must not contradict on the well-established knowledge in other fields such as science, history, psychology, and archeology<br>- If claims contradict with the established fields, the religions must be re-evaluated |
 | Reasonable Answers to Fundamental Human Questions | - Religion must be able to answer fundamental human questions:<br>     - Who am I?<br>	 - Why am I here?<br>	 - The Nature of Reality<br>	 - The Problem of Human Condition<br>	 - Afterlife                                              |
 | Existential Plausibility                          | - People must be able to live based on the fundamental beliefs of the religion.<br>- These beliefs must not be borrowed from an other religion                                                                                            |
+# My Insights
+---
+Now this is the topic that strike me hard the most, and where I really get to learn on what I feel about religion right now and in my place of understanding. As before, I always use the word Atheism whenever someone asks me about what religion I believe in. But I truly did misunderstand the meaning of Atheism as these kinds of people truly reject and deny any religion at all. The right word that I should use was that I am "Agnostic", as I somehow kind of understand other people belief but I also don't kind of believe on what they preach. I'm more into terms with distancing myself with religion but not in a way that I would deny or reject them. By doing this, I think that I could navigate myself through the various religions and beliefs this world has to offer, and it truly keeps me being an open-minded person.
+
+

@@ -1,5 +1,7 @@
-
-
+ **Lorenz Roel S. Abonitalla**
+ **Philo 25 - CCA**
+ 5/21/2025
+ 
 > [!NOTE] Topics
 > - ***Conceptions of The Self***
 
@@ -64,3 +66,5 @@
 ***Desirability of Eternity***
 - Arguments that the eternal existence could lead to boredom or loss of meaning
 
+# My Insights
+---

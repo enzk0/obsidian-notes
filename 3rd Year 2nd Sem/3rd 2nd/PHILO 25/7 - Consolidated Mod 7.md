@@ -1,4 +1,7 @@
-
+ **Lorenz Roel S. Abonitalla**
+ **Philo 25 - CCA**
+ 5/21/2025
+ 
 > [!NOTE] **Topics**
 > - ***The Heretical Imperative***
 > - ***Science and Religion***
@@ -190,4 +193,8 @@ Through ***Process Philosophy***
 
 # My Insights
 ---
-We are truly in the globalized and modern world right now. And it is really true that encounters of people following different beliefs and traditions occur most frequently now in this era. I've got friends from different religions and not to mention that I am already a globalized person since I 
+We are truly in the globalized and modern world right now. And it is really true that encounters of people following different beliefs and traditions occur most frequently now in this era. I've got friends from different religions and not to mention that I am already a globalized person since my elementary days due to my school following Seventh Day Adventist Religion as the main religion there. So I got to interact with some Christians, Seventh Day Adventists, Born Again people, Atheists, and Agnostics. But positively, I haven't had any conflicts when interacting with them, as I always practice being respectful to others and not even dare to cross a line. So with this as an experience, I do support the idea that everyone can respect one another despite being diverse.
+
+The fragmentation of the Sacred Canopy is also a real thing happening right now, because I am already experiencing it. I am really kind of confused about what to believe in nowadays, so I find myself as kind of like an agnostic person person right now. And it really helps to learn about this topic as now I got to learn a few ways on how to navigate these diversities. In finding credibility, being authentic, and most importantly find a purpose.
+
+

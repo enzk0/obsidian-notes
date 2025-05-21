@@ -3,11 +3,10 @@ Semester: 2nd
 Year Level: 3rd
 Course: ITCC 21.1
 ---
-----
-
  **Lorenz Roel S. Abonitalla**
  **Philo 25 - CCA**
  5/21/2025
+ 
 > [!NOTE] Topics
 > - ***Otto's Idea of Holy***
 > - ***Eliade's The Sacred and the Profane***
