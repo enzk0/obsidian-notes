@@ -14,10 +14,10 @@ Semester: 2nd
 - ***testing*** starts from the requirements phase only and goes to the last maintenance phase
 	- on ***requirements analysis phase***
 		- we do *static testing* to get the **SRS**
-		- code reviews, code inspections, walkthroughs, and software technical reviews for *static testing*
+		- code reviews, code inspections, walkthroughs, and software technical reviews are methods *static testing*
 	- if ***code is ready*** or a ***module is ready***
 		- we do *dynamic testing* to test code
-		- black-box, gray-box, white-box
+		- methods are black-box, gray-box, white-box
 
 > **debugging**, removing errors from your program.
 > **testing**, aims to locate undiscovered errors.
