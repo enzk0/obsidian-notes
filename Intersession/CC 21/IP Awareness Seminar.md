@@ -24,7 +24,7 @@ IPR
 - Applicable for products or inventions that have not seen before
 - Capable of being reproduced and manufactured
 - Capable for being a business
-- IPOPhil
+- IPOPhil (Intellectual Property Office of the Philippines)
 - Sue, for people that violated the patent
 
 **Utility Model**
