@@ -14,3 +14,6 @@ Logic gates essential for creating high performance integrated circuits
 
 Logic gates map directly to hardware
 - Yousefi
+
+Backpropagation, calculate the influence of a parameter and adjusts accordingly
+- Rumelhart
