@@ -108,6 +108,8 @@ For any reason the above commands **FAILS**, set the values in sites/common_site
 	- `bench new-site --no-mariadb-socket development.localhost`
 	- `MySQL Root Password is 123`
 
+Username: Administrator
+Password: 123
 *Frappe Administrator password:* 1234
 
 #### Set bench developer mode on the new site
