@@ -55,21 +55,44 @@ cd frappe_docker
 Run the following commands in the terminal inside the container. You might need to create a new terminal in VSCode.
 - NOTE: Prior to doing the following, make sure the user is **frappe**.
 
+
+> [!NOTE] Error Here!
+> Command Bench Not Found:
+> 
+> Actions Taken
+> 1. pip3 install frappe-bench
+> 	a. Tried the command `bench init --skip-redis-config-generation --frappe-branch version-15 frappe-bench` again.
+> 	
+
+![[Pasted image 20250901113809.png]]
+
+> 2. Execute, `sudo apt install python3.10-venv`
+
+```
 bench init --skip-redis-config-generation --frappe-branch version-15 frappe-bench
 cd frappe-bench
+```
 
-1. 1. We need to tell bench to use the right containers instead of localhost. Run the following commands inside the container:
 
+We need to tell bench to use the right containers instead of localhost. Run the following commands inside the container:
+
+```
 bench set-config -g db_host mariadb
 bench set-config -g redis_cache redis://redis-cache:6379
 bench set-config -g redis_queue redis://redis-queue:6379
 bench set-config -g redis_socketio redis://redis-queue:6379
 
-1. 1. For any reason the above commands **FAILS**, set the values in sites/common_site_config.json manually.
+```
 
+For any reason the above commands **FAILS**, set the values in sites/common_site_config.json manually.
+
+```
 {
   "db_host": "mariadb",
   "redis_cache": "redis://redis-cache:6379",
   "redis_queue": "redis://redis-queue:6379",
   "redis_socketio": "redis://redis-queue:6379"
 }
+```
+
+[^1]: 
