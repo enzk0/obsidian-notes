@@ -101,9 +101,10 @@ For any reason the above commands **FAILS**, set the values in sites/common_site
 ```
 
 #### Create a new site with bench
-1. You can create a new site with the following command:
+1. [x] You can create a new site with the following command:
 	- `bench new-site --no-mariadb-socket <sitename>`
-2. sitename MUST end with .localhost for trying deployments locally.
-3. for example:
-	- bench new-site --no-mariadb-socket development.localhost
-	- MySQL Root Password is 123
+2. [x] sitename MUST end with .localhost for trying deployments locally.
+3. [x] for example:
+	- `bench new-site --no-mariadb-socket development.localhost`
+	- `MySQL Root Password is 123`
+
