@@ -36,6 +36,7 @@ cd frappe_docker
             - docker compose -f .devcontainer/docker-compose.yml up -d
         3. [x] And enter the interactive shell for the development container with the following command:
             - docker exec -e "TERM=xterm-256color" -w /workspace/development -it devcontainer-frappe-1 bash
+            - *docker exec should bring new to a new interactive shell hehe*
 
  **Use VSCode Remote Containers extension (Optional)**
         1. Install [Dev Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in your VS Code
@@ -56,7 +57,7 @@ Run the following commands in the terminal inside the container. You might need 
 - NOTE: Prior to doing the following, make sure the user is **frappe**.
 
 
-> [!NOTE] Error Here!
+> [!NOTE] Error Encounters and Notes Here!
 > Command Bench Not Found:
 > 
 > Actions Taken
@@ -67,7 +68,10 @@ Run the following commands in the terminal inside the container. You might need 
 ![[Pasted image 20250901113809.png]]
 
 > 2. Execute, `sudo apt install python3.10-venv`
+> 	a. Tried the command  `bench init --skip-redis-config-generation --frappe-branch version-15 frappe-bench` again.
+> 	b. command executed successfully but this was done on a normal terminal and not inside the terminal of frappe. xD
 
+- [x] 
 ```
 bench init --skip-redis-config-generation --frappe-branch version-15 frappe-bench
 cd frappe-bench
@@ -76,6 +80,7 @@ cd frappe-bench
 
 We need to tell bench to use the right containers instead of localhost. Run the following commands inside the container:
 
+- [x] 
 ```
 bench set-config -g db_host mariadb
 bench set-config -g redis_cache redis://redis-cache:6379
@@ -95,4 +100,10 @@ For any reason the above commands **FAILS**, set the values in sites/common_site
 }
 ```
 
-[^1]: 
+#### Create a new site with bench
+1. You can create a new site with the following command:
+	- `bench new-site --no-mariadb-socket <sitename>`
+2. sitename MUST end with .localhost for trying deployments locally.
+3. for example:
+	- bench new-site --no-mariadb-socket development.localhost
+	- MySQL Root Password is 123
