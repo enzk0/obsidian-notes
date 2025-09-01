@@ -18,9 +18,8 @@ Tasks:
 
 **Steps :**
 
-1. **Bootstrap Containers for development**
-    1. **Clone Repository**
-
+#### Bootstrap Containers for development
+**Clone Repository:**
 ```
 git clone https://github.com/frappe/frappe_docker.git
 cd frappe_docker
@@ -30,14 +29,15 @@ cd frappe_docker
         - cp -R devcontainer-example/ .devcontainer/
     2. [x] Copy example vscode config for devcontainer from development/vscode-example to development/.vscode. This will setup basic configuration for debugging.
         - cp -R development/vscode-example development/.vscode
-    3. [ ] **Manually start containers**
+    3. [x] **Manually start containers**
         1. [x] enable permission
             1. sudo usermod -aG docker ${USER}
-        2. Running the containers
+        2. [x] Running the containers
             - docker compose -f .devcontainer/docker-compose.yml up -d
-        3. And enter the interactive shell for the development container with the following command:
+        3. [x] And enter the interactive shell for the development container with the following command:
             - docker exec -e "TERM=xterm-256color" -w /workspace/development -it devcontainer-frappe-1 bash
-    4. **Use VSCode Remote Containers extension (Optional)**
+
+ **Use VSCode Remote Containers extension (Optional)**
         1. Install [Dev Container](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in your VS Code
         2. Install Remote - Containers for VSCode
             1. through command line code --install-extension ms-vscode-remote.remote-containers
@@ -50,3 +50,26 @@ cd frappe_docker
         4. Notes:
             1. The development directory is ignored by git. It is mounted and available inside the container. Create all your benches (installations of bench, the tool that manages frappe) inside this directory.
             2. Node v14 and v10 are installed. Check with nvm ls. Node v14 is used by default.
+
+#### Setup first bench
+Run the following commands in the terminal inside the container. You might need to create a new terminal in VSCode.
+- NOTE: Prior to doing the following, make sure the user is **frappe**.
+
+bench init --skip-redis-config-generation --frappe-branch version-15 frappe-bench
+cd frappe-bench
+
+1. 1. We need to tell bench to use the right containers instead of localhost. Run the following commands inside the container:
+
+bench set-config -g db_host mariadb
+bench set-config -g redis_cache redis://redis-cache:6379
+bench set-config -g redis_queue redis://redis-queue:6379
+bench set-config -g redis_socketio redis://redis-queue:6379
+
+1. 1. For any reason the above commands **FAILS**, set the values in sites/common_site_config.json manually.
+
+{
+  "db_host": "mariadb",
+  "redis_cache": "redis://redis-cache:6379",
+  "redis_queue": "redis://redis-queue:6379",
+  "redis_socketio": "redis://redis-queue:6379"
+}
