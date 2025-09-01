@@ -26,12 +26,12 @@ git clone https://github.com/frappe/frappe_docker.git
 cd frappe_docker
 ```
 
-1. 1. Copy example devcontainer config from devcontainer-example to .devcontainer
+1. [x] 1. Copy example devcontainer config from devcontainer-example to .devcontainer
         - cp -R devcontainer-example/ .devcontainer/
-    2. Copy example vscode config for devcontainer from development/vscode-example to development/.vscode. This will setup basic configuration for debugging.
+    2. [x] Copy example vscode config for devcontainer from development/vscode-example to development/.vscode. This will setup basic configuration for debugging.
         - cp -R development/vscode-example development/.vscode
-    3. **Manually start containers**
-        1. enable permission
+    3. [ ] **Manually start containers**
+        1. [x] enable permission
             1. sudo usermod -aG docker ${USER}
         2. Running the containers
             - docker compose -f .devcontainer/docker-compose.yml up -d
