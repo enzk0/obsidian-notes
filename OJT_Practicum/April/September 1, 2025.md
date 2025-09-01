@@ -108,3 +108,16 @@ For any reason the above commands **FAILS**, set the values in sites/common_site
 	- `bench new-site --no-mariadb-socket development.localhost`
 	- `MySQL Root Password is 123`
 
+*Frappe Administrator password:* 1234
+
+#### Set bench developer mode on the new site
+1. To develop a new app, the last step will be setting the site into developer mode. Documentation is available at [this link](https://frappe.io/docs/user/en/guides/app-development/how-enable-developer-mode-in-frappe).
+
+```
+bench --site <sitename>.localhost set-config developer_mode 1
+bench --site <sitename>.localhost clear-cache
+```
+
+#### Start Frappe without debugging
+	- execute,  `bench start`
+- You can now login with user Administrator and the password you choose when creating the site. Your website will now be accessible at location [development.localhost:8000](http://development.localhost:8000/)
