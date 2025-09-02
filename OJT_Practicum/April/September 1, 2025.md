@@ -127,11 +127,4 @@ bench --site <sitename>.localhost clear-cache
 To set default site
 	bench use sitename.localhost
 
-```
-bench new-app test-app
-App Title [Test App]: 
-App Description: For Testing
-App Publisher: 
-App Publisher: Admin
-App Email: test@livro.systems
-```
+
