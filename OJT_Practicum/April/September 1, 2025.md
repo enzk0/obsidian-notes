@@ -123,3 +123,15 @@ bench --site <sitename>.localhost clear-cache
 #### Start Frappe without debugging
 	- execute,  `bench start`
 - You can now login with user Administrator and the password you choose when creating the site. Your website will now be accessible at location [development.localhost:8000](http://development.localhost:8000/)
+
+To set default site
+	bench use sitename.localhost
+
+```
+bench new-app test-app
+App Title [Test App]: 
+App Description: For Testing
+App Publisher: 
+App Publisher: Admin
+App Email: test@livro.systems
+```
