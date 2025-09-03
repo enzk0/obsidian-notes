@@ -2,6 +2,9 @@
 ## Task 1: Creating a Site and App
 ---
 > [!NOTE] Notable Commands:
+> To Start docker container:
+> 	`docker compose -f .devcontainer/docker-compose.yml up -d`
+> 
 > To enter in Frappe Shell
 > 	`docker exec -e "TERM=xterm-256color" -w /workspace/development -it devcontainer-frappe-1 bash`
 > 
