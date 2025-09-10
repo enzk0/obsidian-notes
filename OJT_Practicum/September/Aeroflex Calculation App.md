@@ -13,11 +13,10 @@
 
 #### What is the picture all about?
 - I think that it contains the specified inputs, the calculated results or outputs, and the calculation/mathematical formulas that will be used
-- for pipes, ducts, and tanks thermal insulation.
-- For insulation design?
+- It is for like a calculation tool for insulation.
 
 
-> [!NOTE] Terms
+> [!NOTE] Some Terms
 > 1. **HVAC**; stands for Heating, Ventilation, and Air Conditioning
 > 	- Considered as a system designed to control indoor environmental conditions like temp, humidity, air quality, air movement, etc.
 > 2. **EPDM**; stands for Ethylene Propylene Diene Monomer
