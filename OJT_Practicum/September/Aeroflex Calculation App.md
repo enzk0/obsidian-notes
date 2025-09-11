@@ -1,6 +1,6 @@
 
 ---
-#### What is Aeroflex Quick Calculation App?
+#### Aeroflex Quick Calculation App
 - It is a mobile app created by Aeroflex.
 	- Aeroflex creates EPDM Insulators
 - The quick calculation app is made for engineers, contractors and HVAC designers.
@@ -10,8 +10,8 @@
 	- User's can edit certain fields for calculation
 	- User's can export a pdf in respect to the calculations, generating a report.
 
-#### What is the picture all about?
-- I think that it contains the specified inputs, the calculated results or outputs, and the calculation/mathematical formulas that will be used
+#### Inputs/Outputs/Calculation Logic
+- I think that it contains: the specified inputs and fields, the calculated results or outputs, and the calculation/mathematical formulas that are used.
 - It is for like a calculation tool for insulation.
 
 > [!NOTE] Some Terms
