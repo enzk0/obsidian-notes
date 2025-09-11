@@ -19,8 +19,18 @@ My dept
 	- After a task is completed, change current assignee to tech assignee, then project manager of no tech assignee, and set status to pend review
 
 Time sheet
-- 
+- Make a timesheet
 - Add task name or id,
 - record every start and hour
 - then change name to the school
 - editing type, customization
+
+every monday, 1pm
+- pulong standup
+- dept goals
+
+frappe-docker-env
+- if done on the school frappe, send the link
+
+if there is someone who want to meet you:
+- Turn on the cameras
