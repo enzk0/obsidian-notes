@@ -14,7 +14,6 @@
 - I think that it contains the specified inputs, the calculated results or outputs, and the calculation/mathematical formulas that will be used
 - It is for like a calculation tool for insulation.
 
-
 > [!NOTE] Some Terms
 > 1. **HVAC**; stands for Heating, Ventilation, and Air Conditioning
 > 	- Considered as a system designed to control indoor environmental conditions like temp, humidity, air quality, air movement, etc.
