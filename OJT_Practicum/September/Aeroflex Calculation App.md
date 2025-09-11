@@ -1,6 +1,5 @@
 
 ---
-
 #### What is Aeroflex Quick Calculation App?
 - It is a mobile app created by Aeroflex.
 	- Aeroflex creates EPDM Insulators
