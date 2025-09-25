@@ -8,4 +8,5 @@ todo as a team or individually
 ![[Pasted image 20250915153059.png]]
 
 When creating a branch:
-- 
+
+cur_frm.doc
