@@ -1,7 +1,6 @@
 
 #### Setting an Existing App
 ---
-
 1. Start ***Docker***
 2. Start ***Ubuntu***
 3. Go to the `frappe-docker-dev-env` directory
@@ -19,4 +18,33 @@
 7. Go to the product link of the site
 	- Go to download backups
 	- Request to download the latest backup
-	- Download and Unzip te
+	- Download and Unzip the backup
+	- Move backup to the to the branch development folder
+8. Run command:
+	- `bench --site sitename --force restore <backup>.sql`
+	- This restores the backup
+9. Get the app by running this command:
+	- `bench get-app <ssh_repository_link>`
+	- Run command `nano .git/config`
+		- check upstream to fetch all branches
+		- check ssh link and add `-work`
+10. Run command:
+	- `bench migrate && bench set-config -g developer_mode 1 && bench set-admin-password pass123 &&  bench start`
+
+#### Starting the Task
+---
+***Setting an Existing App*** should already be done
+
+1. Set your current directory to the app directory
+2. Run commands:
+	- `git pull`
+	- `git checkout dev`
+	- `git checkout dev -b <recommended branch name>`
+3. Complete the tasks
+4. Push the branch by using:
+	- `git push upstream <branch name>`
+
+#### Creating a Pull Request
+---
+Can be a ***normal pull request*** or a ***hotfix pull request***
+
