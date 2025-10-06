@@ -11,7 +11,12 @@
 5. Run command:
 	- `docker exec -e "TERM=xterm-256color" -w /workspace/development -it devcontainer-frappe-1 bash`
 	- Should enter in frappe shell
-6. Create a new ***site***, run command:
+6. Create a new ***site***, run commands:
 	- `bench new-site <sitename>`
 	- Recommended site name is the name of the school
-	
+	- `bench use <sitename>`
+	- This is to use the site
+7. Go to the product link of the site
+	- Go to download backups
+	- Request to download the latest backup
+	- Download and Unzip te
