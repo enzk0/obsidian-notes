@@ -43,8 +43,23 @@
 3. Complete the tasks
 4. Push the branch by using:
 	- `git push upstream <branch name>`
+5. See ***Creating a Pull Request***
 
 #### Creating a Pull Request
 ---
 Can be a ***normal pull request*** or a ***hotfix pull request***
+
+After pushing a branch, should create a ***pull request*** to the Github client
+
+***Normal Pull Request***
+- check if the base for comparison is the dev branch
+- go to discord and write the PR Link, Task Link to the livro-prs channel
+- assign Ma'am Reyah as the current assignee
+- merge if changes are approved
+
+***Hotfix Pull Request***
+- check if the base for comparison is the master branch
+- go to discord and write the PR Link, Task Link to the livro-prs channel
+- assign Ma'am Reyah as the current assignee
+- wait for changes, DO NOT MERGE
 
