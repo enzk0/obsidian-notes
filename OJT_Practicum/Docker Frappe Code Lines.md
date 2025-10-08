@@ -63,3 +63,5 @@ After pushing a branch, should create a ***pull request*** to the Github client
 - assign Ma'am Reyah as the current assignee
 - wait for changes, DO NOT MERGE
 
+head -20 20251008_041945-cctc_wela_ph-database.sql
+sed -i 's/\\-/-/g' 20251008_041945-cctc_wela_ph-database.sql
