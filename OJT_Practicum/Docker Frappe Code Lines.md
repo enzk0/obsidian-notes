@@ -35,7 +35,7 @@ Go to the product link of the site
 
 Run command:
 ```
-bench --site sitename --force restore <backup>.sql
+bench --site <sitename> --force restore <backup>.sql
 ```
 - This restores the backup
 
