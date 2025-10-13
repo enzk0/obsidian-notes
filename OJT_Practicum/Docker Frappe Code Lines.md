@@ -1,27 +1,41 @@
 
 #### Setting an Existing App
 ---
-1. Start ***Docker***
-2. Start ***Ubuntu***
-3. Go to the `frappe-docker-dev-env` directory
-4. Run Command:
-	- `docker compose -f .devcontainer/docker-compose.yml up -d`
-	- Docker containers should be running
-5. Run command:
-	- `docker exec -e "TERM=xterm-256color" -w /workspace/development -it devcontainer-frappe-1 bash`
-	- Should enter in frappe shell
-6. Create a new ***site***, run commands:
-	- `bench new-site <sitename>`
-	- Recommended site name is the name of the school
-	- `bench use <sitename>`
-	- This is to use the site
-7. Go to the product link of the site
+Start ***Docker***
+Start ***Ubuntu***
+Go to the `frappe-docker-dev-env` directory
+
+Run Command:
+```
+docker compose -f .devcontainer/docker-compose.yml up -d
+```
+- Docker containers should be running
+
+Run command:
+```
+docker exec -e "TERM=xterm-256color" -w /workspace/development -it devcontainer-frappe-1 bash
+```
+- Should enter in frappe shell
+
+Create a new ***site***, run commands:
+```
+bench new-site <sitename>
+```
+- Recommended site name is the name of the school
+```
+bench use <sitename>
+```
+- This is to use the site
+
+Go to the product link of the site
 	- Go to download backups
 	- Request to download the latest backup
 	- Download and Unzip the backup
 	- Move backup to the to the branch development folder
-8. Run command:
-	- `bench --site sitename --force restore <backup>.sql`
+
+Run command:
+```
+bench --site sitename --force restore <backup>.sql`
 	- This restores the backup
 9. Get the app by running this command:
 	- `bench get-app <ssh_repository_link>`
