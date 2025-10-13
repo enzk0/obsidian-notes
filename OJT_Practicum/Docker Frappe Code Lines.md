@@ -35,15 +35,22 @@ Go to the product link of the site
 
 Run command:
 ```
-bench --site sitename --force restore <backup>.sql`
-	- This restores the backup
-9. Get the app by running this command:
-	- `bench get-app <ssh_repository_link>`
-	- Run command `nano .git/config`
+bench --site sitename --force restore <backup>.sql
+```
+- This restores the backup
+
+Get the app by running this command:
+```
+bench get-app <ssh_repository_link>
+```
+ Run command `nano .git/config`
 		- check upstream to fetch all branches
 		- check ssh link and add `-work`
-10. Run command:
-	- `bench migrate && bench set-config -g developer_mode 1 && bench set-admin-password pass123 &&  bench start`
+
+Run command:
+```
+bench migrate && bench set-config -g developer_mode 1 && bench set-admin-password pass123 &&  bench start
+```
 
 #### Starting the Task
 ---
