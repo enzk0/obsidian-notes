@@ -55,9 +55,12 @@ bench get-app <ssh_repository_link>
 
 Run command:
 ```
-bench migrate && bench set-config -g developer_mode 1 && bench set-admin-password pass123 &&  bench start
+bench migrate && bench set-config -g developer_mode 1 && bench set-admin-password pass123
 ```
-
+- Then
+```
+bench start
+```
 
 #### Starting the Task
 ---
