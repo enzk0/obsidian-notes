@@ -38,6 +38,12 @@ Run command:
 bench --site <sitename> --force restore <backup>.sql
 ```
 - This restores the backup
+- When SQL has -s:
+```
+head -20 <database.sql> 
+
+sed -i 's/\\-/-/g' <database.sql>
+```
 
 Get the app by running this command:
 ```
@@ -51,6 +57,7 @@ Run command:
 ```
 bench migrate && bench set-config -g developer_mode 1 && bench set-admin-password pass123 &&  bench start
 ```
+
 
 #### Starting the Task
 ---
@@ -84,5 +91,4 @@ After pushing a branch, should create a ***pull request*** to the Github client
 - assign Ma'am Reyah as the current assignee
 - wait for changes, DO NOT MERGE
 
-head -20 <database.sql>
-sed -i 's/\\-/-/g' <database.sql>
+
