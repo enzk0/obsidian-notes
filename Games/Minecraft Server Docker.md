@@ -31,9 +31,11 @@ services:
 			MEMORY: 7G
 			LOG_TIMESTAMP: true
 			MOTD: "This is a minecraft server, change me pls"
-			DIFFICULT: normal
-			ALLOW_FLIGHT: TRUE
+			DIFFICULT: "normal"
+			ALLOW_FLIGHT: "TRUE"
 			SERVER_NAME: "The server name, change me pls"
+			ENABLE_WHITELIST: "TRUE"
+			ENFORCE_WHITELIST: "TRUE"
 		volumes:
 			- ./minecraft-data:/data
 
