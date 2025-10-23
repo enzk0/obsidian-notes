@@ -23,18 +23,25 @@ services:
 		image: itzg/minecraft-server
 		tty: true
 		stdin_open: true
+		restart: unless-stopped
 		ports:
 			- "25565:25565"
 		environment:
-			EULA "TRUE"
+			EULA: "TRUE"
+			MEMORY: 7G
+			LOG_TIMESTAMP: true
+			MOTD: "This is a minecraft server, change me pls"
+			DIFFICULT: normal
+			ALLOW_FLIGHT: TRUE
+			SERVER_NAME: "The server name, change me pls"
 		volumes:
-			- ./data:/data
+			- ./minecraft-data:/data
 
 ```
 
 Run this command to apply every change made in the `docker-compose.yml`, make sure you're in the right directory:
 ```
-docker-compose up
+docker-compose up -d
 ```
 Find your external IP address:
 ```
