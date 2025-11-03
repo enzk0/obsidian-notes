@@ -40,8 +40,10 @@ bench --site <sitename> --force restore <backup>.sql
 - This restores the backup
 - When SQL has -s:
 ```
-head -20 <database.sql> 
-
+head -20 <database.sql>
+```
+- then:
+``` 
 sed -i 's/\\-/-/g' <database.sql>
 ```
 
