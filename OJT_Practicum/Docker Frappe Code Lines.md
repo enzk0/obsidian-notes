@@ -97,4 +97,17 @@ After pushing a branch, should create a ***pull request*** to the Github client
 - wait for changes, DO NOT MERGE
 
 
-wela.online.livro
+***In updating***
+
+- run on wela_colleges:
+```
+git pull
+```
+
+- run:
+```
+./apps/wela_colleges/update_script.sh
+./apps/wela/update_script.sh
+./apps/billing/update_script.sh
+```
+
