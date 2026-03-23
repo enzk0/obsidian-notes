@@ -39,3 +39,24 @@ Replace the *part* with *base* in the given tween example above:
 ```
 local base = script.Parent.PrimaryPart
 ```
+
+###### When Colliding with Players
+Trigger Warning, Physics is INVOLVED
+1. Calculate velocity
+
+```
+local runService = game:GetService("RunService")
+
+local lastPosition = base.Position
+
+runService.Stepped:Connect(function (_, deltaTime)
+	local currentPosition = base.Position
+	local deltaPosition = currentPosition - lastPosition
+	
+	local velocity = deltaPosition / deltaTime
+	
+	part.AssemblyLinearVelocity = velocity
+	
+	lastPosition = currentPosition
+end)
+```
