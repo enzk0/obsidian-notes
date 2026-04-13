@@ -1,8 +1,33 @@
 #### Print
+creating a print statement that prints out in the terminal:
 ```
 print("my balls")
 ```
 
+#### Functions
+creating a basic function:
+```
+local function functionName(parameter1, parameter2, ...)
+	codeLine1
+	codeLine2
+	return someOutput1, someOutput2
+end
+
+functionName(parameter1, parameter2, ...)
+```
+
+##### Wait For Child
+- used mainly to *get* objects | models | folders | etc.
+
+```
+local someVariable = someFolder.someObject:WaitForChild("somePart|someModel")
+```
+
+##### Get Children
+- used to get all of the instance's children
+```
+local someVariable = someFolder.someObject:GetChildren("somePart|someModel")
+```
 
 #### Tween
 - used to move parts, models, and such
@@ -60,3 +85,4 @@ runService.Stepped:Connect(function (_, deltaTime)
 	lastPosition = currentPosition
 end)
 ```
+
