@@ -13,4 +13,5 @@ What changed in our research so far:
 - In training RDDLGN(64k), the methodology changed to:
 	- from 1000 epochs to 250 epochs
 	- from 546-4k(?) batch size to 2k-4k(?) batch size
-- All model trainings are done in Google Colab instead of personal hardware. This is to complete the training in a faster rate, promote collaboration for training between researchers
+- All model trainings are done in Google Colab instead of personal hardware. This is to complete the training in a faster rate as well as training can be done accessibly and efficiently.
+- The researchers utilized the original source code for all models. Minor revisions and fixes were done for upgrading dependency versions and as well as to integrate the RDDLGN(64k) model into the source code. 
