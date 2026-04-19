@@ -11,4 +11,6 @@ What changed in our research so far:
 	- RDDLGN(64k)
 - Removed RDDLGN(256k) as a model to be evaluated due to time constraints and limited resources.
 - In training RDDLGN(64k), the methodology changed to:
-	- 
+	- from 1000 epochs to 250 epochs
+	- from 546-4k(?) batch size to 2k-4k(?) batch size
+- All model trainings are done in Google Colab instead of personal hardware. This is to complete the training in a faster rate, promote collaboration for training between researchers
