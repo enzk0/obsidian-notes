@@ -19,4 +19,13 @@ Place on chapter 4 the interpretation on why RDDLGN does not do great on the Tes
 On chapter 4, adviser recommended to place graphs
 - tables only looks bland
 
-About GRU, the inclusion of it and the justification of including it is based on Butois paper that GRU is recommended to be evaluated.
+About GRU, the inclusion of it and the justification of including it is based on Butoi's paper that GRU is recommended to be evaluated.
+
+*Sir's assignment*
+- *how to present the proof*
+- *how to present the GRU*
+
+Why the choose of Google Colab?
+- Why not other platforms?
+- Google colab is ready to use.
+- Other models are simple enough that higher end gpus have similar speed with the lower end ones. No benefit in using higher gpus.
