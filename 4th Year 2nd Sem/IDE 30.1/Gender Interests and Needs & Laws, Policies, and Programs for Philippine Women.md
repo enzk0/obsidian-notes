@@ -65,13 +65,14 @@ National Commission on the Role of Filipino Women (NCRFW), now the Philippine Co
 - to assist in *"in ensuring the formulation and nationwide implementation of gender-responsive government policies, programs, and projects"*
 
 Executive Order No. 348 created the Philippine Development Plan for Women (PDPW) for the period 1989-1992
-- the 1st development plan to i
+- the 1st development plan to integrate women's interest. In Philippine context.
 
 The Philippine Plan for Gender-Responsive Development (PPGD)
 - drafted to supplement PDPW
 
-
-
+Philippine publication for GAD:
+1. Harmonized Gender and Development Guidelines, 2010 by the National economic and Development Authority (NEDA), PCW, and the Official Development Assistance Gender and Development Network
+2. Women's Empowerment, Development, and Gender Equality (EDGE), 2013-2016 by the PCW
 
 
 
