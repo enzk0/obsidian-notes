@@ -32,4 +32,5 @@
 - Higaonon Tree House
 
 #### Filipino Concept of Space
-THE WAY we live tell
+THE WAY we live tells us who we are, so our homes are dead giveaways.
+
