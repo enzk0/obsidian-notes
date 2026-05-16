@@ -1,0 +1,15 @@
+
+#### Textile Art
+- the process of creating something using fibers gained from sources: plants, animals, insects, or synthetic materials.
+
+##### Philippine Textile Art Traditions
+**Weaving**
+- as a way to create fabric in which two separate sets of yarn or thread are interlaced at right angles to produce cloth or fabric.
+- our ancestors developed a loom to weave. 
+- weaving speaks so much about the Filipino culture.
+
+1. ***Cordillera Administrative Region (CAR) - Woven Fabrics***
+	- woven by Kalinga people who are prominent in making woven clothes
+	- characterized by dominant red stripes and motifs of geometric patterns, as well as nature symbols with white, yellow, and black fibers.
+- ***Kalinga-and Ifugao-Woven Fabric Process***
+	- Begins with the preparation
