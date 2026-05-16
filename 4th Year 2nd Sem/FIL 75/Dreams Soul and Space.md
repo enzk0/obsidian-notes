@@ -12,4 +12,8 @@
 	- woven by Kalinga people who are prominent in making woven clothes
 	- characterized by dominant red stripes and motifs of geometric patterns, as well as nature symbols with white, yellow, and black fibers.
 - ***Kalinga-and Ifugao-Woven Fabric Process***
-	- Begins with the preparation
+	- Begins with the preparation of the raw material to be used; spinning; winding or skeining, known as iwalangan; dyeing; warping the cotton threads; and finally actual weaving.
+2. ***Ilocos Regions - Woven Fabrics***
+3. ***Region IV-A Aurora Province-Sabutan-Woven Fabrics*** 
+4. ***Region IV-B (MIMAROPA) - Palawan Fabrics***
+5. 
