@@ -23,3 +23,13 @@
 #### Soul and Space
 ##### Some Philippine Folk Architecture
 - Bahay Kubo (Kamalig, or Nipa Hut)
+- Ifugao House
+- Batanes House
+- Maranao House
+- The Stilt Houses
+- The Lean-to
+- Badjao Houseboat
+- Higaonon Tree House
+
+#### Filipino Concept of Space
+THE WAY we live tell
