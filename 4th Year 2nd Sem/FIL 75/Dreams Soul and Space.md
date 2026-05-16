@@ -16,4 +16,10 @@
 2. ***Ilocos Regions - Woven Fabrics***
 3. ***Region IV-A Aurora Province-Sabutan-Woven Fabrics*** 
 4. ***Region IV-B (MIMAROPA) - Palawan Fabrics***
-5. 
+	- Palawan-Woven Fabric Process
+5. ***Mindanao Region***
+	- ***T'nalak - Woven Fabrics***
+
+#### Soul and Space
+##### Some Philippine Folk Architecture
+- Bahay Kubo (Kamalig, or Nipa Hut)
