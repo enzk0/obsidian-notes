@@ -28,3 +28,14 @@ The Filipino's high regard for education as a viewpoint,
 
 Education is a Philippine constitutional right.
 
+![[Pasted image 20260517185803.png]]![[Pasted image 20260517185909.png]]
+
+## Gender and Development Markers in Education 
+There are GAD markers made by NEDA's 2010 Revised Harmonized GAD Guidelines that are designed to help monitor the gender-responsiveness of academic programs and projects.
+
+The NEDA 2010 handbook formulated the criteria for assessing the gender sensitivity of school curricula, programs, and services. The NEDA reports states that women must participate actively in the decision-making bodies of a school.
+
+The Women's EDGE Plan addresses the previous gaps in the PDPW and PPGD, and calls attention emerging issues on gender-responsiveness.
+
+The Magna Carta of Women (MCW) is a revolutionary law that seeks to eliminate other issues women and girls face within education.
+
