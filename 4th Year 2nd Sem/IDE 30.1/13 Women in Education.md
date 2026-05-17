@@ -37,5 +37,8 @@ The NEDA 2010 handbook formulated the criteria for assessing the gender sensitiv
 
 The Women's EDGE Plan addresses the previous gaps in the PDPW and PPGD, and calls attention emerging issues on gender-responsiveness.
 
-The Magna Carta of Women (MCW) is a revolutionary law that seeks to eliminate other issues women and girls face within education.
+The ***Magna Carta of Women (MCW)***
+- is a revolutionary law that seeks to eliminate other issues women and girls face within education. 
+- promotes the addition of women in nontraditional disciplines or vocational courses within higher education as prescribed by international treaties.
 
+## Gender Issues in Education
