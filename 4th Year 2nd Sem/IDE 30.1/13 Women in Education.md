@@ -53,5 +53,18 @@ Women are overlooked in research and achievements in Science.
 More support for women is still needed in the agricultural sector, as well as in the formal sector
 
 ### The Multiple Burdens of Women as a Factor
+Women often have to juggle multiple roles, depending on where they are in society.
+
+### The Necessity of Material Support
+Public schools and other forms of free education are not enough as their are cost of school supplies, transportations, and other factors that affect the ability of girls to attend school.
+
+### Inhibited Access to Education
+Urban relocations, natural disasters, encampment of military forces on school sites, long distances of school, and etc. affect a child's education.
+
+### Sexual and Reproductive Health and Rights
+The limited sexual and reproductive health rights (SRHR) in the Philippines can affect one's access to education.
+
+### Gender-Far Textbooks and Programs
+DepEd's numerous efforts to correct gender-biased textbooks, teaching materials, and methods in accordance with the MCW and Women's EDGE plan.
 
 
