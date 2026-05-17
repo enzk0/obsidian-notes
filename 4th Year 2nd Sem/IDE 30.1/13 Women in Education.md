@@ -69,3 +69,13 @@ DepEd's numerous efforts to correct gender-biased textbooks, teaching materials,
 
 ### Inclusive Education and Alternative Learning Systems
 DepEd for the need of alternative learning systems to help out-of-school youth and older students who have yet to complete their basic education.
+
+### Male Performance in Schools
+Increase in female participation and a decrease in male performance in schools. So part of the feminist agenda is to increase men's - not just women's - participation in education.
+
+### Sexual Violence in Education
+The Philippines' Anti-Sexual Harassment Law of 1995 defines **sexual harassment** as the demand of a sexual act or favor in an institution, wherein the person who demands the act is in moral ascendancy or influence over the person being solicited.
+
+A **sexual request** or advance can also be sexual harassment if it results in "an intimidating, hostile, or offensive environment for the student, trainee, or apprentice."
+
+
