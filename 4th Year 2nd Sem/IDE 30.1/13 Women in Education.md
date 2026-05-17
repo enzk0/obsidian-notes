@@ -67,4 +67,5 @@ The limited sexual and reproductive health rights (SRHR) in the Philippines can 
 ### Gender-Far Textbooks and Programs
 DepEd's numerous efforts to correct gender-biased textbooks, teaching materials, and methods in accordance with the MCW and Women's EDGE plan.
 
-
+### Inclusive Education and Alternative Learning Systems
+DepEd for the need of alternative learning systems to help out-of-school youth and older students who have yet to complete their basic education.
