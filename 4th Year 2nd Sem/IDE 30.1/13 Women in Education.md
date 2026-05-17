@@ -42,3 +42,16 @@ The ***Magna Carta of Women (MCW)***
 - promotes the addition of women in nontraditional disciplines or vocational courses within higher education as prescribed by international treaties.
 
 ## Gender Issues in Education
+### Stereotyping as a Violation of Human Rights
+Education can be used as a tool to eliminate harmful gender stereotypes. However it can also serve as a medium to keep the status quo.
+
+### Issues in STEM
+Women are overlooked in research and achievements in Science.
+- creating a gap in representation
+
+### Non Traditional Skills Training
+More support for women is still needed in the agricultural sector, as well as in the formal sector
+
+### The Multiple Burdens of Women as a Factor
+
+
