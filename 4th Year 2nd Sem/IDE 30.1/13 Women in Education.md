@@ -78,4 +78,21 @@ The Philippines' Anti-Sexual Harassment Law of 1995 defines **sexual harassment*
 
 A **sexual request** or advance can also be sexual harassment if it results in "an intimidating, hostile, or offensive environment for the student, trainee, or apprentice."
 
+### A Gendered Education and a Gendered Curriculum
+Gender plays an important part in how a person experiences the world, what one learns, and how one relates to the topics in the classroom. Education then provides students about what is important, who is in power, and what values and characteristics are important to succeed in life. However, today's education is still based of the male experiences and on how to live in a male-dominated world. There is a need of change to this perspective as it skews the students' minds. Thus women's studies must be also recognized as a legitimate discipline.
 
+### The Unspoken Curriculum: Campus Culture and Gender
+#### Microaggression and education
+**Microaggression** is a subtle form of aggression towards a historically marginalized social group which may be intentional or unintentional.
+
+**The Microaggression theory** frames the subtle biases students may experience in their schools that have a large impact on how they act, see themselves, and even their careers later in life.
+
+#### Bullying and Relational Aggression
+Bullying as defined by R.A. 10627, is a physical, verbal, electronic gesture or act directed toward a student that aims to place that student in a state of fear or panic, which disrupts the student's education.
+
+Technology is also a means to perpetuate bullying through cyberbullying.
+
+Relational aggression defined as "acts that harm others through damage to relationships or of acceptance, friendship, or group inclusion."
+
+#### Campus Culture
+Culture can be defines as shared characteristics and norms of particular nationalities or 
