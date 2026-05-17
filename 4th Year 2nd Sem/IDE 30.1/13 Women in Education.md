@@ -95,4 +95,8 @@ Technology is also a means to perpetuate bullying through cyberbullying.
 Relational aggression defined as "acts that harm others through damage to relationships or of acceptance, friendship, or group inclusion."
 
 #### Campus Culture
-Culture can be defines as shared characteristics and norms of particular nationalities or 
+Culture can be defines as shared characteristics and norms of particular nationalities or sub or cross national groups.
+
+Campus culture is defined as the culture formed within a school based on the shared values of the institution.
+
+Peer culture also contributes to campus culture as it plays an important role in gender socialization, from acceptable behavior and interaction between the same sex and opposite sex.
